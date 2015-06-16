@@ -42,7 +42,7 @@ p {
     padding: 10px 0px 0 30px;
     height: 225px;
     border: 1px; 
-  solid #ccc;
+    solid: #ccc;
     font-size: 16px;
     line-height: 190%;
 }
